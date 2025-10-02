@@ -51,13 +51,6 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
 
-<!-- Concepts -->
-<img src="https://img.icons8.com/ios/50/000000/source-code.png" height="40" alt="linq logo"/>
-<img width="12" />
-<img src="https://img.icons8.com/ios/50/000000/database.png" height="40" alt="ef logo"/>
-<img width="12" />
-<img src="https://img.icons8.com/ios/50/000000/web.png" height="40" alt="mvc logo"/>
-
 </div>
 
 
