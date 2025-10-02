@@ -13,56 +13,63 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abdalsobhy.abdalsobhy&"  />
-</div>
-
-###
-
 <h1 align="center">Hi there 👋, I'm AbdAlrahman Sobhy</h1>
 
-###
+---
 
-<h3 align="left">👩‍💻 About Me</h3>
+### 👨‍💻 About Me  
+- 🎓 Student (Graduating 2027)  
+- ⚡ Skilled in **Algorithms & Data Structures**  
+- 🔭 I can build **APIs, MVC projects, and backend systems**  
+- 🌱 Sometimes I work on **frontend with Angular**  
+- 💡 Interested mainly in **Backend Development & API Design**  
 
-###
+---
 
-<p align="left">
-- 🎓 Student (Graduating 2027)<br>
-- 🔭 Currently working on ASP.NET Core projects (APIs, MVC)<br>
-- 📚 Learning advanced C#, Entity Framework, LINQ<br>
-- ⚡ Interested in backend development and clean architecture<br>
-</p>
-
-###
-
-<h3 align="left">🛠 Languages and Tools</h3>
-
-###
+### 🛠 Tech Stack  
 
 <div align="left">
-  <!-- Main Skills -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dotnet logo" />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/48/000000/database.png" height="40" alt="database logo" />
-  <img width="12" />
-  
-  <!-- Extra Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws logo" />
+
+<!-- Core -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dotnet logo" />
+<img width="12" />
+<img src="https://img.icons8.com/color/48/000000/sql.png" height="40" alt="sqlserver logo" />
+<img width="12" />
+
+<!-- Web & APIs -->
+<img src="https://img.icons8.com/color/48/000000/api.png" height="40" alt="api logo"/>
+<img width="12" />
+<img src="https://img.icons8.com/fluency/48/000000/angularjs.png" height="40" alt="angular logo"/>
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+
+<!-- Concepts -->
+<img src="https://img.icons8.com/ios/50/000000/source-code.png" height="40" alt="linq logo"/>
+<img width="12" />
+<img src="https://img.icons8.com/ios/50/000000/database.png" height="40" alt="ef logo"/>
+<img width="12" />
+<img src="https://img.icons8.com/ios/50/000000/web.png" height="40" alt="mvc logo"/>
+
 </div>
 
-###
+---
 
-<h3 align="left">🔥 My Stats :</h3>
-
-###
+### 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=abdalsobhy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdalsobhy&show_icons=true&theme=dark)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdalsobhy&layout=compact&theme=dark)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=abdalsobhy&theme=dark&hide_border=false)  
+
 </div>
