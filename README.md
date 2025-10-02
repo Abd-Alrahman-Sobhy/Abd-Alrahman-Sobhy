@@ -18,8 +18,6 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🎓 Student (Graduating 2027)  
-- ⚡ Skilled in **Algorithms & Data Structures**  
 - 🔭 I can build **APIs, MVC projects, and backend systems**  
 - 🌱 Sometimes I work on **frontend with Angular**  
 - 💡 Interested mainly in **Backend Development & API Design**  
