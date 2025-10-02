@@ -51,13 +51,6 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
 
-<!-- Concepts -->
-<img src="https://img.icons8.com/ios/50/000000/source-code.png" height="40" alt="linq logo"/>
-<img width="12" />
-<img src="https://img.icons8.com/ios/50/000000/database.png" height="40" alt="ef logo"/>
-<img width="12" />
-<img src="https://img.icons8.com/ios/50/000000/web.png" height="40" alt="mvc logo"/>
-
 </div>
 
 ---
@@ -66,10 +59,10 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdalsobhy&show_icons=true&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abd-Alrahman-Sobhy&show_icons=true&theme=dark)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdalsobhy&layout=compact&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abd-Alrahman-Sobhy&layout=compact&theme=dark)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=abdalsobhy&theme=dark&hide_border=false)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Abd-Alrahman-Sobhy&theme=dark&hide_border=false)  
 
 </div>
