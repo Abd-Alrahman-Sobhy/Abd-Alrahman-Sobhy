@@ -69,7 +69,7 @@ I enjoy turning business requirements into well-structured APIs, designing relat
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=sqlserver,git,github,docker" />
+<img src="https://skillicons.dev/icons?i=sqlserver,git,github" />
 
 </p>
 
