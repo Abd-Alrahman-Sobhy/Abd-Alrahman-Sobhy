@@ -154,26 +154,6 @@ Practical implementations of data structures and algorithmic concepts in C#.
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abd-Alrahman-Sobhy&theme=github-compact&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Abd-Alrahman-Sobhy/Abd-Alrahman-Sobhy/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 ```text
